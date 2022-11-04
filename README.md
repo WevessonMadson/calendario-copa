@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://github.com/WevessonMadson/calendario-copa/)
+[🔗 Clique aqui para acessar](https://wevessonmadson.github.io/calendario-copa/)
 
 
 ## 🛠 Tecnologias
